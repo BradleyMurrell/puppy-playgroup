@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
 /* Body */
 
 body {
@@ -8,7 +10,6 @@ body {
 /* Header */
 
 .header {
-    width: 100%;
     height: 150px;
     padding: 50px;
     text-align: center;
@@ -17,7 +18,8 @@ body {
 }
 
 .header h1 {
-    font-size: 40px;
+    font-size: 80px;
+    font-family: Permanent Marker;
 }
 
 /* Navbar */
