@@ -62,6 +62,11 @@ header h1 {
     flex: 50%;
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 /* About Us */
 
 /* Schedule */
