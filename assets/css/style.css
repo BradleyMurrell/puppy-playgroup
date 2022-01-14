@@ -106,19 +106,17 @@ input[type=submit]:hover {
 
 /* Footer */
 
-.footer {
+footer {
     height: 150px;
-}
-
-.social-networks {
     text-align: center;
+    background-color: #1abc9c;
 }
 
-.social-networks > li {
+footer > ul {
     display: inline;
 }
 
-.social-networks i {
+footer > i {
     font-size: 200%;
     margin: 1%;
     padding: 5%;
