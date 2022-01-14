@@ -24,7 +24,7 @@ header h1 {
 
 /* Navbar */
 
-.navbar {
+#navbar {
     width: 100%;
     overflow: hidden;
     background-color: #333;
@@ -33,7 +33,7 @@ header h1 {
     position: fixed;
 }
 
-.navbar a {
+#navbar a {
     float: left;
     display: block;
     color: white;
@@ -42,12 +42,12 @@ header h1 {
     text-decoration: none;
 }
 
-.navbar a:hover {
+#navbar a:hover {
     background-color: #666;
     color: white;
 }
 
-.navbar a:active {
+#navbar a:active {
     background-color: #666;
     color: white;
 }
