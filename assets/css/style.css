@@ -9,7 +9,7 @@ body {
 
 /* Header */
 
-.header {
+header {
     height: 150px;
     padding: 50px;
     text-align: center;
@@ -17,7 +17,7 @@ body {
     color: white;
 }
 
-.header h1 {
+header h1 {
     font-size: 80px;
     font-family: Permanent Marker;
 }
