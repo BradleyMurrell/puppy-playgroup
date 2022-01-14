@@ -54,23 +54,15 @@ header h1 {
 
 /* Sections */
 
-.column {
-    float: left;
-    width: 50%;
-    padding: 0;
-    height: 700px;
+.row {
+    display: flex;
 }
 
-.row:after {
-    display: table;
-    clear: both;
+.column {
+    flex: 50%;
 }
 
 /* About Us */
-
-#about-us {
-    margin-left: 16px;
-}
 
 /* Schedule */
 
