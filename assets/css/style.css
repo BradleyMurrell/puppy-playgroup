@@ -16,7 +16,7 @@ header {
     padding: 3rem;
     text-align: center;
     background: #77A37E;
-    color: #EDFFF0;
+    color: #fff;
 }
 
 header h1 {
@@ -159,7 +159,7 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #EDFFF0;
+    color: #fff;
 }
 
 /* Responsive layouts */
