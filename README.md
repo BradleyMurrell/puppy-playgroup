@@ -14,3 +14,5 @@
   * The navigation bar is fixed on screens larger than 620px so that the user can easily navigate to a section wherever they are on the site.
   * On screens smaller than 620px, the navigation bar is not fixed to avoid taking up too much space on a small screen.
   * The navigation clearly tells the user what they will find on the website and makes the different sections easy to find.
+
+  <img src="assets/images/Screenshot (1).png">
