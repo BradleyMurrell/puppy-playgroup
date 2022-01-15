@@ -15,6 +15,10 @@
   * On screens smaller than 620px, the navigation bar is not fixed to avoid taking up too much space on a small screen.
   * The navigation clearly tells the user what they will find on the website and makes the different sections easy to find.
 
-  <img src="assets/images/Screenshot (1).png">
+<img src="assets/images/Screenshot (1).png">
 
 * The Header
+  * The header shows the name of the group, using a playful font to convey to the user that the group is about having fun.
+
+<img src="assets/images/Screenshot (17).png">
+
