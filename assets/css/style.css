@@ -95,26 +95,26 @@ img {
 
 input[type=text] {
     width: 30%;
-    padding: 12px;
+    padding: 1rem;
     border: 1px solid #333;
-    margin-top: 6px;
-    margin-bottom: 16px;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
 }
 
 input[type=email] {
     width: 30%;
-    padding: 12px;
+    padding: 1rem;
     border: 1px solid #333;
-    margin-top: 6px;
-    margin-bottom: 16px;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
 }
 
 input[type=submit] {
     background-color: #1abc9c;
     color: #fff;
-    padding: 12px 20px;
+    padding: 1rem 2rem;
     border: none;
-    border-radius: 5px;
+    border-radius: 0.5rem;
     cursor: pointer;
 }
 
