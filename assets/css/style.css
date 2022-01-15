@@ -11,15 +11,15 @@ body {
 /* Header */
 
 header {
-    height: 150px;
-    padding: 50px;
+    height: 10rem;
+    padding: 4rem;
     text-align: center;
     background: #1abc9c;
     color: #fff;
 }
 
 header h1 {
-    font-size: 80px;
+    font-size: 5rem;
     font-family: Permanent Marker;
 }
 
