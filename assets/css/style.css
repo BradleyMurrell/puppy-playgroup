@@ -143,4 +143,8 @@ input[type=submit]:hover {
 
 footer {
     height: 10rem;
-    background-color: #77A37E;
+    padding: 3rem;
+    text-align: center;
+    background: #77A37E;
+    color: #EDFFF0;
+}
