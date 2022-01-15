@@ -22,3 +22,9 @@
 
 <img src="assets/images/Screenshot (17).png">
 
+* The About Us section
+  * The About Us section explains to the user what the playgroup is and what the groups intended purpose is, which is to socialise young dogs.
+
+<img src="assets/images/Screenshot (18).png">
+
+* The Schedule section
