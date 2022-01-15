@@ -16,3 +16,5 @@
   * The navigation clearly tells the user what they will find on the website and makes the different sections easy to find.
 
   <img src="assets/images/Screenshot (1).png">
+
+* The Header
