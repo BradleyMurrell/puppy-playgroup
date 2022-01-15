@@ -3,3 +3,5 @@
 ### The website allows users to find information about the playgroup, meet up times, contact information and a sign up form.
 
 <img src="assets/images/Screenshot (9).png">
+
+# Features
