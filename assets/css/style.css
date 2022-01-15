@@ -99,10 +99,6 @@ td, th {
     background-color: #C7F0CD;
 }
 
-ul {
-    list-style-type: none;
-}
-
 input[type=text] {
     width: 30%;
     padding: 1rem;
@@ -119,10 +115,6 @@ input[type=email] {
     margin-bottom: 1rem;
 }
 
-input[type=radio] {
-    
-}
-
 input[type=submit] {
     background-color: #77A37E;
     color: #fff;
@@ -130,6 +122,10 @@ input[type=submit] {
     border: none;
     border-radius: 0.5rem;
     cursor: pointer;
+}
+
+hr {
+    border: 0;
 }
 
 input[type=submit]:hover {
