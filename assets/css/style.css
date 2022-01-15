@@ -58,13 +58,20 @@ header h1 {
     display: flex;
 }
 
-.column {
+.column-left {
     flex: 50%;
+    padding: 5%;
+}
+
+.column-right {
+    flex: 50%;
+    padding: 5%;
 }
 
 img {
-    width: 100%;
+    width: 90%;
     height: auto;
+    border-radius: 1rem;
 }
 
 /* About Us */
