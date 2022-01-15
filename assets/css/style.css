@@ -119,6 +119,10 @@ input[type=email] {
     margin-bottom: 1rem;
 }
 
+input[type=radio] {
+    
+}
+
 input[type=submit] {
     background-color: #77A37E;
     color: #fff;
