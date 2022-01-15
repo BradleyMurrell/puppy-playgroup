@@ -76,9 +76,21 @@ img {
 
 /* About Us */
 
+#about-us {
+    background-color: #333;
+}
+
 /* Schedule */
 
+#schedule {
+    background-color: #666;
+}
+
 /* Sign up */
+
+#sign-up {
+    background-color: #333;
+}
 
 input[type=text] {
     width: 30%;
@@ -110,6 +122,10 @@ input[type=submit]:hover {
 }
 
 /* Contact */
+
+#contact {
+    background-color: #666;
+}
 
 /* Footer */
 
