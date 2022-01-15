@@ -4,7 +4,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    color: #fff;
+    color: #333;
     margin: 0;
 }
 
@@ -14,7 +14,7 @@ header {
     height: 10rem;
     padding: 4rem;
     text-align: center;
-    background: #1abc9c;
+    background: #77A37E;
     color: #fff;
 }
 
@@ -78,19 +78,19 @@ img {
 /* About Us */
 
 #about-us {
-    background-color: #333;
+    background-color: #C7F0CD;
 }
 
 /* Schedule */
 
 #schedule {
-    background-color: #666;
+    background-color: #EDFFF0;
 }
 
 /* Sign up */
 
 #sign-up {
-    background-color: #333;
+    background-color: #C7F0CD;
 }
 
 input[type=text] {
@@ -110,7 +110,7 @@ input[type=email] {
 }
 
 input[type=submit] {
-    background-color: #1abc9c;
+    background-color: #77A37E;
     color: #fff;
     padding: 1rem 2rem;
     border: none;
@@ -119,13 +119,14 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #EDFFF0;
+    color: #333;
 }
 
 /* Contact */
 
 #contact {
-    background-color: #666;
+    background-color: #EDFFF0;
 }
 
 /* Footer */
@@ -133,7 +134,7 @@ input[type=submit]:hover {
 footer {
     height: 150px;
     text-align: center;
-    background-color: #1abc9c;
+    background-color: #77A37E;
 }
 
 footer > ul {
