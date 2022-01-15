@@ -170,10 +170,18 @@ footer {
     .row {
         flex-direction: column;
     }
+
+    .social-networks {
+        padding-left: 0;
+    }
 }
 
 /* For screens less than 620px */
 
 @media screen and (max-width: 620px) {
-    
+    #navbar a {
+        width: 100%;
+        padding: 0;
+        margin: 1rem;
+    }
 }
