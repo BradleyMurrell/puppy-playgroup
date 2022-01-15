@@ -179,9 +179,18 @@ footer {
 /* For screens less than 620px */
 
 @media screen and (max-width: 620px) {
+
+    header h1 {
+        font-size: 3rem;
+    }
+
     #navbar a {
         width: 100%;
         padding: 0;
         margin: 1rem;
+    }
+
+    #navbar {
+        position: relative;
     }
 }
