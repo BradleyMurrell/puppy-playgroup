@@ -99,6 +99,10 @@ td, th {
     background-color: #C7F0CD;
 }
 
+ul {
+    list-style-type: none;
+}
+
 input[type=text] {
     width: 30%;
     padding: 1rem;
