@@ -12,7 +12,7 @@ body {
 /* Header */
 
 header {
-    height: 10rem;
+    height: 17rem;
     padding: 3rem;
     text-align: center;
     background: #77A37E;
@@ -142,9 +142,22 @@ input[type=submit]:hover {
 /* Footer */
 
 footer {
-    height: 10rem;
-    padding: 3rem;
-    text-align: center;
+    height: 17rem;
     background: #77A37E;
+}
+
+.social-networks {
+    text-align: center;
+    margin-top: 0;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
     color: #EDFFF0;
 }
