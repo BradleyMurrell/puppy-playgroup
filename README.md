@@ -85,3 +85,16 @@
 
 ### The live link can be found here - https://github.com/BradleyMurrell/puppy-playgroup.git
 
+# Credits
+
+## For help and advice
+
+* Simen Daehlin
+
+## Content
+
+* Some code from the Love Running project was used as a referance
+
+## Media
+
+* All images were taken from Pexels
