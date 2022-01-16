@@ -80,7 +80,7 @@
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
   * In GitHub repository, navigate to Settings tab
   * Scroll down to GitHub pages and click on Check it out here!
-  * From the source section drop-down menu, select the Main branch
+  * From the source section drop-down menu, select the Main branch.
   Once the Main branch has been selected, the page provided the link to the completed website.
 
 ### The live link can be found here - https://github.com/BradleyMurrell/puppy-playgroup.git
