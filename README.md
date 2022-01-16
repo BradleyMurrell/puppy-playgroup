@@ -59,3 +59,14 @@
 * I was having issues with using float. Everytime I entered a new code, the previous float would be messed up. I ended up replacing float with flex which made things much more simpler.
 * While testing on W3C validator, I had one error. On the form, I left the value to action and method as #.
 
+## Validator Testing
+
+* HTML
+  * One error was found when passing through the official W3C validator
+  * The error was fixed and no errors were found
+* CSS
+  * No errors were found when passing through the official (Jigsaw) validator
+* Accessibility
+  * I confirmed that the color and fonts chosen are easy to read and accesible by running it through lighthouse in devtools
+
+<img src="assets/images/Screenshot (10).png">
