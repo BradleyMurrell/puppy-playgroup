@@ -53,6 +53,9 @@
 * I confirmed that the navigation, header, about us, schedule, sign up and contact text are all readable and easy to understand.
 * I have confirmed that the form works: requires entries in every field but one which is listed as optional, will only accept an email in the email field and the submit button works.
 
-## Bugs
+### Issues that I encountered during testing
 
-### Solved bugs
+* While testing responsiveness on smaller screens I found that the navigation bar took up too much room on screens smaller than 620px wide. I decided not to fix the navigation bar on screens smaller than 620px wide so that it would not get in the way of the users experience.
+* I was having issues with using float. Everytime I entered a new code, the previous float would be messed up. I ended up replacing float with flex which made things much more simpler.
+* While testing on W3C validator, I had one error. On the form, I left the value to action and method as #.
+
