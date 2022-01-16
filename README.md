@@ -46,3 +46,13 @@
 
 <img src="assets/images/Screenshot (21).png">
 
+# Testing
+
+* I tested that this page works in different browsers: Chrome, Firefox, Microsoft Edge.
+* I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
+* I confirmed that the navigation, header, about us, schedule, sign up and contact text are all readable and easy to understand.
+* I have confirmed that the form works: requires entries in every field but one which is listed as optional, will only accept an email in the email field and the submit button works.
+
+## Bugs
+
+### Solved bugs
