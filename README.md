@@ -94,6 +94,7 @@
 ## Content
 
 * Some code from the Love Running project was used as a referance
+* Used sample README from Code Institute as a template
 
 ## Media
 
