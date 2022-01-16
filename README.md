@@ -33,7 +33,7 @@
 <img src="assets/images/Screenshot (19).png">
 
 * The Sign Up form
-  * The Sign Up section has a form to collect details the puppy owners so that they can reserve a spot at the meet up.
+  * The Sign Up section has a form to collect details of the puppy owners so that they can reserve a spot at the meet up.
   * The form collects the owners name, dog's name and age group, as well as the dog breed if known. The dog breed is kept optional just in case the breed is unknown.
   * The Sign Up form is valuable to puppy owners so that they can join the playgroup.
 
