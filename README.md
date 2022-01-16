@@ -28,3 +28,7 @@
 <img src="assets/images/Screenshot (18).png">
 
 * The Schedule section
+  * The Schedule section shows the user the meet up times as well as the location of the meet up.
+
+<img src="assets/images/Screenshot (19).png">
+
