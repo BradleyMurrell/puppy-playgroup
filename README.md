@@ -39,3 +39,10 @@
 
 <img src="assets/images/Screenshot (20).png">
 
+* The Contact section
+  * The Contact section provides users a phone number and email address.
+  * The Contact section includes social media icons so that users can find Puppy Playgroup on Facebook and Instagram.
+  * The Contact section is valuable to the user as it gives them the ability to contact Puppy Playgroup if they have any questions.
+
+<img src="assets/images/Screenshot (21).png">
+
