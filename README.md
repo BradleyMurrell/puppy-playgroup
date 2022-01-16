@@ -83,7 +83,7 @@
   * From the source section drop-down menu, select the Main branch.
   Once the Main branch has been selected, the page provided the link to the completed website.
 
-### The live link can be found here - https://github.com/BradleyMurrell/puppy-playgroup.git
+### The live link can be found here - https://bradleymurrell.github.io/puppy-playgroup/
 
 # Credits
 
